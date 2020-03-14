@@ -1,6 +1,7 @@
 # Docker Spark Image
 
-Disclaimer: this image size is about 806MB.  I cannot make it much smaller; Spark is a large binary.
+Disclaimer: this image's size is about 806MB.
+I cannot make it much smaller; Spark is a large binary.
 
 Usage:
 
